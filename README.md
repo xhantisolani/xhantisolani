@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi There! 👋  
 
-<!--
-**xhantisolani/xhantisolani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I’m **Xhanti Solani**, an aspiring **cybersecurity developer** passionate about creating secure and reliable software solutions.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me  
+I’m starting my career in **cybersecurity development**, focusing on secure coding practices, application security, and exploring innovative technologies like AWS AIM. My journey is driven by a commitment to building systems that prioritize safety and scalability.
+
+---
+
+## Personal Story  
+During my undergraduate studies, I experienced a life-changing event when I became an above-knee amputee. This period taught me more about myself than I could ever put into words. It was the most challenging time in my life, but my greatest achievement is making it through university during this adversity.  
+
+Through resilience, determination, and a relentless desire to grow, I’ve developed the strength to pursue my dreams and make an impact in technology.
+
+---
+
+Feel free to explore my repositories, and let’s connect! 🚀
