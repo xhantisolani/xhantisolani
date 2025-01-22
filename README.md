@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I’m **Xhanti Solani**, an aspiring **Software de
 ---
 
 ## About Me  
-I’m starting my career in **cybersecurity development**, focusing on secure coding practices, application security, and exploring innovative technologies like AWS AIM. My journey is driven by a commitment to building systems that prioritize safety and scalability.
+I’m starting my career in **Software development**, focusing on secure coding practices, application security, and exploring innovative technologies like AWS AIM. My journey is driven by a commitment to building systems that prioritize safety and scalability.
 
 ---
 
