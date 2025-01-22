@@ -1,6 +1,6 @@
 # Hi There! 👋  
 
-Welcome to my GitHub profile! I’m **Xhanti Solani**, an aspiring **cybersecurity developer** passionate about creating secure and reliable software solutions.  
+Welcome to my GitHub profile! I’m **Xhanti Solani**, an aspiring **Software developer** passionate about creating secure and reliable software solutions.  
 
 ---
 
