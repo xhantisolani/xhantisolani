@@ -1,3 +1,3 @@
 # Welcome to My GitHub! 👨‍💻✨
 
-Hi there! I'm Xhanti Solani, a passionate **software developer.**
+Hi there! I'm Xhanti Solani, a passionate **Quality Assurance Engineer.**
