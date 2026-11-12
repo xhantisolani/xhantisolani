@@ -1,3 +1,3 @@
 # Welcome to My GitHub! 👨‍💻
 
-Hi there! I'm Xhanti Solani, **I build amazing tech.**
+I am a good developer because I think like a tester **(but I am better as a tester)**.
